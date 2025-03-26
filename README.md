@@ -15,7 +15,7 @@ cd client
 ```bash
 npm install
 ```
-
+Run clint side
 open powershell and cd to the project folder and
 cd client
 
@@ -25,7 +25,7 @@ run this code in power shell:
   $env:NODE_OPTIONS="--openssl-legacy-provider"; npm start
 ```
 
-Run clint side
+
 
 Run Backend side
 
